@@ -8,16 +8,16 @@
 
 **You can find me at:** 
 <p align="left">
-  <a href="https://t.me/rizkhal">
+  <a target="_blank" href="https://t.me/rizkhal">
     <img alt="Rizkhal Lamaau on Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
-  <a href="https://www.facebook.com/iikhal.lamaau">
+  <a target="_blank" href="https://www.facebook.com/iikhal.lamaau">
     <img alt="Rizkhal Lamaau on Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
-  <a href="https://medium.com/@rizkhallamaau">
+  <a target="_blank" href="https://medium.com/@rizkhallamaau">
     <img alt="Rizkhal Lammaau on Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
-  <a href="https://www.youtube.com/channel/UCGp3xBej1aPqP5G-l0mVhlg">
+  <a target="_blank" href="https://www.youtube.com/channel/UCGp3xBej1aPqP5G-l0mVhlg">
     <img alt="Rizkhal Lamaau on Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   </a>
 </p>
