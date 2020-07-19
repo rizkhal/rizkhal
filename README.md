@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**My Github Stats:** <br>
+**My Github Stats:** <br> <br>
 ![Rizkhal Lamaau github stats](https://github-readme-stats.vercel.app/api?username=rizkhal)
 
 ![image](https://github.com/rizkhal/rizkhal/blob/master/dino.gif)
