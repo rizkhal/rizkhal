@@ -1,4 +1,1 @@
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Rizkhal.
-</p>
+![My card name](https://cardivo.vercel.app/api?name=Hi+three%20%F0%9F%91%8B&description=I+am+Rizkhal+Lamaau%2C+i%27m+web+developer+from+Nusa+Tenggara+Timur&image=https://avatars.githubusercontent.com/u/24653114?v=4&backgroundColor=%23ecf0f1&github=rizkhal&twitter=rixzkl&pattern=leaf&colorPattern=%23eaeaea)
