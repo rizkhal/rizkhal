@@ -1,1 +1,1 @@
-![My card name](https://cardivo.vercel.app/api?name=Hi%20%F0%9F%91%8B&description=I%27m+Rizkhal+Lamaau%2C+i%27m+web+developer+from+Flores%2C+Indonesia&image=https://avatars.githubusercontent.com/u/24653114?v=4&backgroundColor=%23ecf0f1&github=rizkhal&twitter=rixzkl&pattern=leaf&colorPattern=%23eaeaea)
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
